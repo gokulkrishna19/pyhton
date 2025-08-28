@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e27be845-de79-4157-9895-c7bcdb0d98f6" name="Changes" comment="Area Program Completed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if-in.py" beforeDir="false" afterPath="$PROJECT_DIR$/if-in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedlisttt.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlisttt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
       <updated>1756020181312</updated>
       <workItem from="1756020190284" duration="1121000" />
       <workItem from="1756142938136" duration="723000" />
-      <workItem from="1756281286063" duration="8592000" />
+      <workItem from="1756281286063" duration="9468000" />
     </task>
     <task id="LOCAL-00001" summary="Area Program Completed">
       <option name="closed" value="true" />
@@ -112,7 +110,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$for.coverage" NAME="for Coverage Results" MODIFIED="1756401561780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$for.coverage" NAME="for Coverage Results" MODIFIED="1756402976851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$linkedlisttt.coverage" NAME="linkedlisttt Coverage Results" MODIFIED="1756401191327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$if_in.coverage" NAME="if-in Coverage Results" MODIFIED="1756294589838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$area.coverage" NAME="area Coverage Results" MODIFIED="1756283401488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
