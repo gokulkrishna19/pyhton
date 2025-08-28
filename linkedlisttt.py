@@ -105,3 +105,4 @@ if __name__ == '__main__':
     List.delete(3)
     List.printLinkedList()
     print()
+    print("finished")
