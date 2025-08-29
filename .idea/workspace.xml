@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e27be845-de79-4157-9895-c7bcdb0d98f6" name="Changes" comment="Area Program Completed">
-      <change afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/for.py" afterDir="false" />
-    </list>
+    <list default="true" id="e27be845-de79-4157-9895-c7bcdb0d98f6" name="Changes" comment="Area Program Completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +67,7 @@
       <updated>1756020181312</updated>
       <workItem from="1756020190284" duration="1121000" />
       <workItem from="1756142938136" duration="723000" />
-      <workItem from="1756281286063" duration="10344000" />
+      <workItem from="1756281286063" duration="10547000" />
     </task>
     <task id="LOCAL-00001" summary="Area Program Completed">
       <option name="closed" value="true" />
