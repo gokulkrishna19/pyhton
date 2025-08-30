@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e27be845-de79-4157-9895-c7bcdb0d98f6" name="Changes" comment="Area Program Completed" />
+    <list default="true" id="e27be845-de79-4157-9895-c7bcdb0d98f6" name="Changes" comment="Area Program Completed">
+      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_with_named_argument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +37,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.area.executor": "Run",
+    "Python.exampleForWhile.executor": "Run",
     "Python.for.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.function_with_named_argument.executor": "Run",
     "Python.if-in.executor": "Run",
     "Python.if.executor": "Run",
     "Python.linkedlisttt.executor": "Run",
@@ -68,6 +76,8 @@
       <workItem from="1756020190284" duration="1121000" />
       <workItem from="1756142938136" duration="723000" />
       <workItem from="1756281286063" duration="10547000" />
+      <workItem from="1756489879244" duration="210000" />
+      <workItem from="1756536854570" duration="3445000" />
     </task>
     <task id="LOCAL-00001" summary="Area Program Completed">
       <option name="closed" value="true" />
@@ -98,19 +108,12 @@
     <MESSAGE value="Area Program Completed" />
     <option name="LAST_COMMIT_MESSAGE" value="Area Program Completed" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/if.py</url>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$for.coverage" NAME="for Coverage Results" MODIFIED="1756403606849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$function.coverage" NAME="function Coverage Results" MODIFIED="1756540838245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$linkedlisttt.coverage" NAME="linkedlisttt Coverage Results" MODIFIED="1756401191327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$exampleForWhile.coverage" NAME="exampleForWhile Coverage Results" MODIFIED="1756489992832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$function_with_named_argument.coverage" NAME="function_with_named_argument Coverage Results" MODIFIED="1756541594379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$if_in.coverage" NAME="if-in Coverage Results" MODIFIED="1756294589838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$area.coverage" NAME="area Coverage Results" MODIFIED="1756283401488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$while.coverage" NAME="while Coverage Results" MODIFIED="1756403659957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
