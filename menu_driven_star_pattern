@@ -1,0 +1,49 @@
+# star_pyramids_menu.py
+
+def half_pyramid(n):
+    for i in range(1, n + 1):
+        print("* " * i)
+
+def inverted_half_pyramid(n):
+    for i in range(n, 0, -1):
+        print("* " * i)
+
+def full_pyramid(n):
+    for i in range(1, n + 1):
+        print(" " * (n - i) + "* " * i)
+
+def inverted_full_pyramid(n):
+    for i in range(n, 0, -1):
+        print(" " * (n - i) + "* " * i)
+
+def diamond_pyramid(n):
+    for i in range(1, n + 1):
+        print(" " * (n - i) + "* " * i)
+    for i in range(n - 1, 0, -1):
+        print(" " * (n - i) + "* " * i)
+
+if __name__ == "__main__":
+    n = int(input("Enter the height of pyramid: "))
+
+    print("\nChoose a Pyramid Pattern:")
+    print("1. Half Pyramid")
+    print("2. Inverted Half Pyramid")
+    print("3. Full Pyramid")
+    print("4. Inverted Full Pyramid")
+    print("5. Diamond Pyramid")
+
+    choice = int(input("Enter your choice (1-5): "))
+
+    print("\nResult:\n")
+    if choice == 1:
+        half_pyramid(n)
+    elif choice == 2:
+        inverted_half_pyramid(n)
+    elif choice == 3:
+        full_pyramid(n)
+    elif choice == 4:
+        inverted_full_pyramid(n)
+    elif choice == 5:
+        diamond_pyramid(n)
+    else:
+        print("Invalid choice! Please enter a number between 1 and 5.")
