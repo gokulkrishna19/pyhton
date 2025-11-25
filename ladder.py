@@ -10,6 +10,9 @@ def ladder_simple(height, rung_len=4):
         # print rung
         print("|" + "=" * rung_len + "|")
 
+
+
+
 def ladder_dashed(height, rung_len=6, gap=2):
     """Dashed ladder: alternating dashed rungs and gaps to look like steps."""
     for i in range(height):
